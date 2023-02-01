@@ -18,7 +18,7 @@ while count <= num_of_integers -1:
         min = user_input
     count += +1
 
-print("Min:",min)
-print("Max:",max)
+print("Min: ",min)
+print("Max: ",max)
 
 
